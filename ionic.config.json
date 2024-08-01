@@ -1,0 +1,7 @@
+{
+  "name": "memory-trainer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
